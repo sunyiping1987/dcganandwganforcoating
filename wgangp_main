@@ -12,7 +12,7 @@ import xlsxwriter
 from    PIL import Image
 from    matplotlib import pyplot as plt
 
-from    gan_optimazation import Generator, Discriminator
+from    gan import Generator, Discriminator
 
 
 
